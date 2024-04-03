@@ -1,0 +1,22 @@
+{
+  "_pleaseNote": "Auto generated file for future use. Please do not edit",
+  "project": {
+    "name": "fa-services-card",
+    "description": "Services Card",
+    "title": "Service Card",
+    "author": "jordan",
+    "adoTaskNumber": "",
+    "features": {
+      "registeredInAppStore": false,
+      "semanticRelease": false,
+      "repoName": "fa-services-card"
+    },
+    "template": "fa-template"
+  },
+  "runtime": {
+    "cli": "0.0.1",
+    "node": "v20.12.0",
+    "path": "fa-services-card"
+  },
+  "version": "0.0.1"
+}
